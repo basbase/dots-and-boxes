@@ -1,0 +1,16 @@
+.dot {
+    height: 11px;
+    width: 11px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: black;
+    border-radius: 50%;
+    display: block;
+}
+
+.dot .label {
+    position: absolute;
+    top: 10px;
+    font-size: 10px;
+    pointer-events: none;
+}

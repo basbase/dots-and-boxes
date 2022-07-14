@@ -1,0 +1,9 @@
+.verti {
+    width: 8px;
+    transform: translate(-50%, 0);
+    position: absolute;
+    display: block;
+}
+.verti:hover {
+    background-color: #87ff00!important;
+}

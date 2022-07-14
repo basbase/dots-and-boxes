@@ -1,0 +1,9 @@
+.hori {
+    height: 8px;
+    transform: translate(0, -50%);
+    position: absolute;
+    display: block;
+}
+.hori:hover {
+    background-color: #87ff00 !important;
+}
